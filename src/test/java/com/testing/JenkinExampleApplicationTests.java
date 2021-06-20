@@ -15,7 +15,7 @@ class JenkinExampleApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(JenkinExampleApplicationTests.class);
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		logger.info("Test case executing...");
 		logger.info("Test case executing changes...");
 		assertEquals(true, true);

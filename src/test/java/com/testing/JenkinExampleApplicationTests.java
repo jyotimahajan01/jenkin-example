@@ -17,7 +17,7 @@ class JenkinExampleApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test case executing...");
-		logger.info("Test case executing 1 ...");
+		logger.info("Git Changes ...");
 		assertEquals(true, true);
 	}
 
